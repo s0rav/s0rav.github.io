@@ -1,46 +1,20 @@
+---
+layout: default
+title: Saurabh Sharma
+---
+
 # Saurabh Sharma
 
-![Profile Image](profile_image_url_here)
+Email: tosorav@gmail.com | Phone: 7607936994
 
----
-
-## Contact Information
-- **Email:** tosorav@gmail.com
-- **Phone:** 7607936994
-- **LinkedIn:** [linkedin.com/in/s0rav](https://linkedin.com/in/s0rav)
-
----
+[LinkedIn](https://linkedin.com/in/s0rav)
 
 ## Skills
-### Languages
-- Java
-- Kotlin
-- Golang
-
-### Datastores
-- Postgres
-- MySQL
-- DynamoDB
-- AWS S3
-
-### Others
-- AWS
-- Grafana
-- Prometheus
-- Liquibase
-
-### Frameworks
-- SpringBoot
-- Gin
-- Hibernate
-
-### Tools
-- Git
-- Docker
-- Kubernetes
-- Apache Kafka
-
----
+- **Languages:** Java, Kotlin, Golang
+- **Datastores:** Postgres, MySQL, DynamoDB, AWS S3
+- **Others:** AWS, Grafana, Prometheus, Liquibase
+- **Frameworks:** SpringBoot, Gin, Hibernate
+- **Tools:** Git, Docker, Kubernetes, Apache Kafka
 
 ## Professional Experience
 
@@ -86,9 +60,6 @@
 - **Responsibilities:**
   - Built deployment pipelines in GoCD for the application in different environments.
 
----
-
 ## Education
 - **Degree:** Bachelor of Technology in Computer Science and Engineering
 - **University:** Madan Mohan Malaviya University of Technology
-
